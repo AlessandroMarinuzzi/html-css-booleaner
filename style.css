@@ -1,5 +1,14 @@
+body{
+    max-width: 60%;
+}
 header{
     background-image: url(img/pattern.png);
     background-color: cornflowerblue;
-    height: 180px;
+    height: 130px;
+    
+}
+#logo{
+    height: 50px;
+    width: auto;
+    margin-top: 70px;
 }
