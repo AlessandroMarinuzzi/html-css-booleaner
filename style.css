@@ -4,7 +4,7 @@ body{
 }
 header{
     background-image: url(img/pattern.png);
-    background-color: cornflowerblue;
+    background-color: rgba(78,160,255,255);
     height: 130px;
     
 }
@@ -24,6 +24,7 @@ header{
     font-size: 10px;
     margin-top: 0px;
     padding: 0px;
+    line-height:2px ;
 }
 .Yellow{
     background-color: yellow;
@@ -37,12 +38,12 @@ Table{
     border-collapse: collapse;
 }
 thead{
-    background-color: rgb(2, 162, 236);
+    background-color: rgba(32,169,229,255) ;
     color: white;
     text-align: left;
 }
 .row{
-    background-color: rgb(118, 255, 255);
+    background-color: rgba(177,229,242,255);
 }
 
 .left{
@@ -62,7 +63,6 @@ thead{
     background-image: url(img/monitor.jpg);
     background-repeat: no-repeat;
     color: #FFFFFF;  
-    margin-bottom: 50px;
     width: 240px;
     height: 150px;
 }
@@ -70,7 +70,6 @@ thead{
     background-image: url(img/graph.jpg);
     background-repeat: no-repeat;
     color: #FFFFFF;
-    margin-bottom: 50px;
     width: 240px;
     height: 150px;
 }
